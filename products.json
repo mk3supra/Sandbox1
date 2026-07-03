@@ -1,0 +1,24 @@
+{
+  "physical": [
+    {
+      "id": "ps5-example",
+      "type": "physical",
+      "name": "PlayStation 5",
+      "search_term": "PlayStation 5 console",
+      "sites": ["amazon", "walmart", "bestbuy"],
+      "max_price": 600
+    }
+  ],
+  "events": [
+    {
+      "id": "cowboys-example",
+      "type": "event",
+      "name": "Dallas Cowboys Game",
+      "search_term": "Dallas Cowboys",
+      "sites": ["seatgeek", "stubhub"],
+      "max_price": 250,
+      "date_start": null,
+      "date_end": null
+    }
+  ]
+}
